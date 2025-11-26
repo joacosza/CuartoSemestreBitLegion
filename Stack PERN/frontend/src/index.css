@@ -1,0 +1,14 @@
+
+:root {
+  --bg-ivory: #f5f2e8;
+  --ink: #2e2e2e;
+  --maroon: #7a0019;
+  --muted: #6b6b6b;
+  --accent-cream: #d9d5c9;
+}
+body { background: var(--bg-ivory); color: var(--ink); font-family: 'Garamond', 'Playfair Display', serif }
+.bg-ivory { background: var(--bg-ivory) }
+.text-ink { color: var(--ink) }
+.text-muted { color: var(--muted) }
+.bg-maroon { background: var(--maroon) }
+.text-maroon { color: var(--maroon) }
